@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "nama":"Farrid Kuntoro",
+        "email":"hai@farridkuntoro.me",
+        "alamat": {
+            "kelurahan":"cijerah",
+            "kota":"cimahi",
+            "provinsi":"jawa barat"}
+    },
+    {
+        "id":2,
+        "nama":"Kuntoro Farrid",
+        "emai":"hai@kuncreative.co",
+        "alamat": {
+            "kelurahan":"cijerah",
+            "kota":"cimahi",
+            "provinsi":"jawa barat"}
+    },
+    {
+        "id":3,
+        "nama":"Kuntoro",
+        "email":"hai@farridkuntoro.com",
+        "alamat":{
+            "kelurahan":"cijerah",
+            "kota":"cimahi",
+            "provinsi":"jawa barat"}
+    }
+]
